@@ -1,5 +1,6 @@
-<p align="center"> # Hi, It's EM 👩‍💻 
-##             [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+to+my+space+;i+create+stuffs+for+the+web)](https://git.io/typing-svg) 
+<p align="center"> 
+# Hi, It's EM 👩‍💻 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+to+my+space+;i+create+stuffs+for+the+web)](https://git.io/typing-svg) 
 ![EM Signature!](https://github.com/emxsapinit/emxsapinit/blob/main/assets/images/em-signature.png)
 
 </p>
