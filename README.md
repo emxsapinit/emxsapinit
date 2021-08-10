@@ -1,8 +1,7 @@
 <h1 align="center"> 
 Welcome to EM Space</h1>
 
-<p align="center">##  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hi,+it's+em;i+create+stuffs+for+the+web)](https://git.io/typing-svg) </p>
-
+##  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hi,+it's+em;i+create+stuffs+for+the+web)](https://git.io/typing-svg)
 ![EM Signature!](/assets/images/em-signature.png)
 
 
@@ -19,7 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she
 - ⚡ Fun fact: ...
-#Streak 
+-
+# Streak ⚡️
+___________________________________________________________________
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emxsapinit&theme=tokyonight&currStreakNum=D8B7FD&currStreakLabel=D8B7FD&sideNums=68DEF8&sideLabels=68DEF8&ring=68DEF8&dates=FABCBA&fire=FABCBA&background=161516)](https://git.io/streak-stats)
 
  
