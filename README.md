@@ -1,4 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=developer;writer)](https://git.io/typing-svg)
+#                                                                            Hi, It's EM 👩‍💻
+##                [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+to+my+space+;i+create+stuffs+for+the+web)](https://git.io/typing-svg)
+                            ![EM EMAIL SIGNATURE!](/assets/images/em-signature.png)
 
 
 <!--
