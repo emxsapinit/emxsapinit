@@ -21,7 +21,15 @@ Here are some ideas to get you started:
 
 ### Streak ⚡️
 ___________________________________________________________________
+
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=emxsapinit&theme=tokyonight&currStreakNum=D8B7FD&currStreakLabel=D8B7FD&sideNums=68DEF8&sideLabels=68DEF8&ring=68DEF8&dates=FABCBA&fire=FABCBA&background=161516" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emxsapinit&layout=compact" />
+</a>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emxsapinit&theme=tokyonight&currStreakNum=D8B7FD&currStreakLabel=D8B7FD&sideNums=68DEF8&sideLabels=68DEF8&ring=68DEF8&dates=FABCBA&fire=FABCBA&background=161516)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emxsapinit&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emxsapinit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
