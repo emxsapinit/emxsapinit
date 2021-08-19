@@ -1,7 +1,7 @@
 <h1 align="center"> 
 Welcome to EM Space🪐</h1>
 
-##  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hi,+it's+em;i+create+stuffs+for+the+web)](https://git.io/typing-svg)
+<!--##  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hi,+it's+em;i+create+stuffs+for+the+web)](https://git.io/typing-svg)-->
 ![EM Signature!](/assets/images/em-signature-pic.png)
 
 <!--
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 ___________________________________________________________________
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emxsapinit&theme=tokyonight&currStreakNum=D8B7FD&currStreakLabel=D8B7FD&sideNums=68DEF8&sideLabels=68DEF8&ring=68DEF8&dates=FABCBA&fire=FABCBA&background=161516)](https://git.io/streak-stats)
 
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emxsapinit&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
