@@ -6,13 +6,13 @@ Welcome to EM Space🪐</h1>
 
 ### Let's Connect 🤝
 ___________________________________________________________________
-<a href=""> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
-<a href=""> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" > </a>
-<a href=""> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> </a>
-<a href=""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
-<a href=""> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" > </a>
+<a href="mailto:em@yugto.tech"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
+<a href="https://twitter.com/emxsapinit"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" > </a>
+<a href="https://dev.to/yugtotech"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> </a>
+<a href="https://www.linkedin.com/in/emxsapinit/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
+<a href="https://discord.com/users/871348100034355202"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" > </a>
 <a href=""> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" > </a>
-<a href=""> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" > </a>
+<a href="https://www.buymeacoffee.com/emxpace"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" > </a>
 
 <!--
 **emborromeo/emborromeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
