@@ -47,7 +47,7 @@ ___________________________________________________________________
   
  - <a href="https://yugto.tech/as-developer-students-why-do-we-need-to-learn-git-and-use-github/"> as developer students, why do we need to learn git? (and use github) 🦾 </a> 
  
- - <a href="https://yugto.tech/affordable-coding-training-centers-for-students-and-beginners-in-the-philippines/" affordable coding training centers for students and beginners in the Philippines 👨🏻‍🏫</a> 
+ - <a href="https://yugto.tech/affordable-coding-training-centers-for-students-and-beginners-in-the-philippines/"> affordable coding training centers for students and beginners in the Philippines 👨🏻‍🏫</a> 
 
  - <a href="https://yugto.tech/filipino-student-devs-get-your-free-github-student-developer-pack-now-%f0%9f%8e%92/"> filipino student devs, get your free github student developer pack now 🎒</a> 
  
