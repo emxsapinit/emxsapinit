@@ -43,7 +43,7 @@ ___________________________________________________________________
 
 ### Blogs 📑
 ___________________________________________________________________
- - <a href="https://yugto.tech/learning-api-by-creating-weather-wall-a-simple-forercast-app-using-react-and-open-weather-map/">
+ -<a href="https://yugto.tech/learning-api-by-creating-weather-wall-a-simple-forercast-app-using-react-and-open-weather-map/">
   learning api by creating weather wall: a simple forecast app using react and open weather map ⛅️ </a> 
   
  - <a href="https://yugto.tech/as-developer-students-why-do-we-need-to-learn-git-and-use-github/">
