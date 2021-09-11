@@ -43,8 +43,10 @@ ___________________________________________________________________
 
 ### Blogs 📑
 ___________________________________________________________________
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<ul> 
+  <li<a href="https://yugto.tech/learning-api-by-creating-weather-wall-a-simple-forercast-app-using-react-and-open-weather-map/" >learning api by creating weather wall: a simple forecast app using react and open weather map </a> </li>
+  
+</ul>
 
 
 ### Languages and Tools 🛠 
