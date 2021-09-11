@@ -1,15 +1,15 @@
-name: Update this repo's README
-
+name: Latest blog post workflow
 on:
-  schedule:
-    # Once a day at 8 AM
-    - cron: 0 8 * * *
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
-  update:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: emxsapinit/emxsapinit
+      - name: Checkout
+        uses: emxsapinit/blog-post-workflow@main
         with:
-          feed-url: https://yugto.tech/rss.xml
-          readme-section: feed
+          feed_list: "https://yugto.tech/feed/"
