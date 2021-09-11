@@ -45,17 +45,13 @@ ___________________________________________________________________
 ___________________________________________________________________
  - <a href="https://yugto.tech/learning-api-by-creating-weather-wall-a-simple-forercast-app-using-react-and-open-weather-map/"> learning api by creating weather wall: a simple forecast app using react and open weather map ⛅️ </a> 
   
- - <a href="https://yugto.tech/as-developer-students-why-do-we-need-to-learn-git-and-use-github/">
- as developer students, why do we need to learn git? (and use github) 🦾 </a> 
+ - <a href="https://yugto.tech/as-developer-students-why-do-we-need-to-learn-git-and-use-github/"> as developer students, why do we need to learn git? (and use github) 🦾 </a> 
  
- -  <a href="https://yugto.tech/affordable-coding-training-centers-for-students-and-beginners-in-the-philippines/">
- affordable coding training centers for students and beginners in the Philippines 👨🏻‍🏫</a> 
+ - <a href="https://yugto.tech/affordable-coding-training-centers-for-students-and-beginners-in-the-philippines/" affordable coding training centers for students and beginners in the Philippines 👨🏻‍🏫</a> 
 
- -  <a href="https://yugto.tech/filipino-student-devs-get-your-free-github-student-developer-pack-now-%f0%9f%8e%92/">
- filipino student devs, get your free github student developer pack now 🎒</a> 
+ - <a href="https://yugto.tech/filipino-student-devs-get-your-free-github-student-developer-pack-now-%f0%9f%8e%92/"> filipino student devs, get your free github student developer pack now 🎒</a> 
  
- -  <a href="https://yugto.tech/filipino-student-developers-be-a-postman-student-expert-%f0%9f%91%a8%e2%80%8d%f0%9f%9a%80/">
- filipino student developers: be a postman student expert 👨‍🚀 </a> 
+ - <a href="https://yugto.tech/filipino-student-developers-be-a-postman-student-expert-%f0%9f%91%a8%e2%80%8d%f0%9f%9a%80/"> filipino student developers: be a postman student expert 👨‍🚀 </a> 
  
 ### Languages and Tools 🛠 
 ___________________________________________________________________
