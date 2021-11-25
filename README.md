@@ -6,9 +6,9 @@ Welcome to EM Space🪐</h1>
 
 ### Let's Connect 🤝
 ___________________________________________________________________
-<a href="mailto:em@yugto.tech"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
+<a href="mailto:hello@emborromeo.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
 <a href="https://twitter.com/emsapinit"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" > </a>
-<a href="https://dev.to/yugtotech"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> </a>
+<a href="https://dev.to/emborromeo"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/emborromeo/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
 <a href="https://discord.com/users/871348100034355202"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" > </a>
 <a href=""> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" > </a>
@@ -21,7 +21,7 @@ ___________________________________________________________________
 - 📫 How to reach me: ...
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on the final project for #100DaysOfCode.
+- 🔭 I’m currently working on an Error Logs Tracker for LMS.
 - 🌱 I’m currently learning the mern stack.
 - 💬 Ask me about anything.
 - 😄 Pronouns: she
@@ -43,15 +43,16 @@ ___________________________________________________________________
 
 ### Blogs 📑
 ___________________________________________________________________
- - <a href="https://yugto.tech/learning-api-by-creating-weather-wall-a-simple-forercast-app-using-react-and-open-weather-map/"> learning api by creating weather wall: a simple forecast app using react and open weather map ⛅️ </a> 
+ -  <a href="https://blog.emborromeo.com/testing-the-api-i-made-by-creating-a-firefox-add-on-called-stoic-sayings-tab/"> testing the API i made by creating a firefox add-on called stoic sayings tab 🗿 </a> 
+ 
+ -  <a href="https://blog.emborromeo.com/learning-api-by-creating-weather-wall-a-simple-forercast-app-using-react-and-open-weather-map/"> learning api by creating weather wall: a simple forecast app using react and open weather map ⛅️ </a> 
   
- - <a href="https://yugto.tech/as-developer-students-why-do-we-need-to-learn-git-and-use-github/"> as developer students, why do we need to learn git? (and use github) 🦾 </a> 
+ - <a href="https://blog.emborromeo.com/as-developer-students-why-do-we-need-to-learn-git-and-use-github/"> as developer students, why do we need to learn git? (and use github) 🦾 </a> 
  
- - <a href="https://yugto.tech/affordable-coding-training-centers-for-students-and-beginners-in-the-philippines/"> affordable coding training centers for students and beginners in the Philippines 👨🏻‍🏫</a> 
+ - <a href="https://blog.emborromeo.com/affordable-coding-training-centers-for-students-and-beginners-in-the-philippines/"> affordable coding training centers for students and beginners in the Philippines 👨🏻‍🏫</a> 
 
- - <a href="https://yugto.tech/filipino-student-devs-get-your-free-github-student-developer-pack-now-%f0%9f%8e%92/"> filipino student devs, get your free github student developer pack now 🎒</a> 
+ - <a href="https://blog.emborromeo.com/filipino-student-devs-get-your-free-github-student-developer-pack-now-%f0%9f%8e%92/"> filipino student devs, get your free github student developer pack now 🎒</a> 
  
- - <a href="https://yugto.tech/filipino-student-developers-be-a-postman-student-expert-%f0%9f%91%a8%e2%80%8d%f0%9f%9a%80/"> filipino student developers: be a postman student expert 👨‍🚀 </a> 
  
 ### Languages and Tools 🛠 
 ___________________________________________________________________
