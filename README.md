@@ -1,8 +1,8 @@
 <h1 align="center"> 
 Welcome to EM Space🪐</h1>
 
-<!--##  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hi,+it's+em;i+create+stuffs+for+the+web)](https://git.io/typing-svg)-->
-![EM Signature!](/assets/images/em-signature-pic.png)
+<!--##  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hi,+it's+em;i+create+stuffs+for+the+web)](https://git.io/typing-svg)![EM Signature!](/assets/images/em-signature-pic.png)-->
+
 
 ### Let's Connect 🤝
 ___________________________________________________________________
